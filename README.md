@@ -77,6 +77,7 @@ A list of DevOps resources - podcasts, blogs, newsletters, etc
 ## Guides
 
 [What is DevOps? The Beginner’s Guide from Logz.io](http://logz.io/learn/what-is-devops/)
+[What is DevOps? Updated for 2020](https://logit.io/blog/post/what-is-devops)
 
 ## Videos
 
